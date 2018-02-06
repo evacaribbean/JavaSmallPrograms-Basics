@@ -2,16 +2,17 @@
 
 <br>
 
-bp01WindowFX<br>
-bp02WidowSwing<br><br>
+bp01ForestTaleInADialogWindowFX<br>
+bp02MeadowTaleInADialogWindowSwing<br>
+bp03WindowFX<br>
+bp04WidowSwing<br><br>
 
-bp03WindowElementsFX<br>
-bp04WindowElementsSwing<br>
-bp05WindowElements[Struts]<br><br>
+bp05WindowElementsFX<br>
+bp06WindowElementsSwing<br>
+bp07WindowElements[Web:Struts, FX or alike...]<br><br>
 
-bp06WindowBackgroundImageFX<br>
-bp07WindowBackgroundImageSwing<br>
-bp08WindowBackgroundImage[Struts]<br><br>
-
+bp08WindowBackgroundImageFX<br>
+bp09WindowBackgroundImageSwing<br>
+bp10WindowBackgroundImage[Web:Struts, FX or alike...]<br><br>
 
 [and more]

@@ -9,10 +9,10 @@ bp04WidowSwing<br><br>
 
 bp05WindowElementsFX<br>
 bp06WindowElementsSwing<br>
-bp07WindowElements[Web:Struts, FX or alike...]<br><br>
+bp07WindowElements[Web: Struts, FX or alike]<br><br>
 
 bp08WindowBackgroundImageFX<br>
 bp09WindowBackgroundImageSwing<br>
-bp10WindowBackgroundImage[Web:Struts, FX or alike...]<br><br>
+bp10WindowBackgroundImage[Web: Struts, FX or alike]<br><br>
 
 [and more]

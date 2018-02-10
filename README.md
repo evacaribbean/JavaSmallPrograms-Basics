@@ -4,15 +4,15 @@
 
 bp01ForestTaleInADialogWindowFX<br>
 bp02MeadowTaleInADialogWindowSwing<br>
-bp03WindowFX<br>
-bp04WidowSwing<br><br>
+bp03JustAWindowFX<br>
+bp04JustAWidowSwing<br><br>
 
-bp05WindowElementsFX<br>
-bp06WindowElementsSwing<br>
-bp07WindowElements[Web: Struts, FX or alike]<br><br>
+bp05WindowWithElementsFX<br>
+bp06WindowWithElementsSwing<br>
+bp07WindowWithElements[Web: Struts, FX or alike]<br><br>
 
-bp08WindowBackgroundImageFX<br>
-bp09WindowBackgroundImageSwing<br>
-bp10WindowBackgroundImage[Web: Struts, FX or alike]<br><br>
+bp08WindowWithBackgroundImageFX<br>
+bp09WindowWithBackgroundImageSwing<br>
+bp10WindowWithBackgroundImage[Web: Struts, FX or alike]<br><br>
 
 [and more]

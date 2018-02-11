@@ -5,16 +5,17 @@
 bp01ForestTaleInADialogWindowFX<br>
 bp02MeadowTaleInADialogWindowSwing<br>
 bp03JustAWindowFX<br>
-bp04JustAWidowSwing<br><br>
+bp04JustAWindowFXSimpelMVC<br>
+bp05JustAWidowSwing<br><br>
 
-bp05WindowWithElementsFX<br>
-bp06WindowWithElementsFXMVC<br>
-bp07WindowWithElementsSwing<br>
-bp08WindowWithElements[Web: Struts, FX or alike]<br><br>
+bp06WindowWithElementsFX<br>
+bp07WindowWithElementsFXSimpelMVC<br>
+bp08WindowWithElementsSwing<br>
+bp09WindowWithElements[Web: Struts, FX or alike]<br><br>
 
-bp09WindowWithBackgroundImageFX<br>
-bp10WindowWithBackgroundImageFXMVC<br>
-bp11WindowWithBackgroundImageSwing<br>
-bp12WindowWithBackgroundImage[Web: Struts, FX or alike]<br><br>
+bp10WindowWithBackgroundImageFX<br>
+bp11WindowWithBackgroundImageFXSimpelMVC<br>
+bp12WindowWithBackgroundImageSwing<br>
+bp13WindowWithBackgroundImage[Web: Struts, FX or alike]<br><br>
 
 [and more]

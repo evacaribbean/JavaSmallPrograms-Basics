@@ -9,13 +9,13 @@ bp03WindowFX<br>
 bp04WindowFXSimpleMVC<br> 			
 bp05WidowSwing<br><br>				
 
-bp06WindowWithElements1FX<br>
+bp06WindowWithControls1FX<br>
 bp07WindowWithPanesFX<br>
 bp08WindowWithGridsFX<br>
-bp09WindowWithElements2FX<br>
-bp10WindowWithElementsFXSimpelMVC<br>
-bp11WindowWithElementsSwing<br>
-bp12WindowWithElements[Web: Struts, FX or alike]<br><br>
+bp09WindowWithControls2FX<br>
+bp10WindowWithControlsFXSimpelMVC<br>
+bp11WindowWithControlsSwing<br>
+bp12WindowWithControls[Web: Struts, FX or alike]<br><br>
 
 bp13WindowWithBackgroundImageFX<br>
 bp14WindowWithBackgroundImageFXSimpelMVC<br>

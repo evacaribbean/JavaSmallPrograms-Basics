@@ -17,10 +17,10 @@ bp10WindowWithElementsFXSimpelMVC<br>
 bp11WindowWithElementsSwing<br>
 bp12WindowWithElements[Web: Struts, FX or alike]<br><br>
 
-bp10WindowWithBackgroundImageFX<br>
-bp11WindowWithBackgroundImageFXSimpelMVC<br>
-bp12WindowWithBackgroundImageSwing<br>
-bp13WindowWithBackgroundImage[Web: Struts, FX or alike]<br><br>
+bp13WindowWithBackgroundImageFX<br>
+bp14WindowWithBackgroundImageFXSimpelMVC<br>
+bp15WindowWithBackgroundImageSwing<br>
+bp16WindowWithBackgroundImage[Web: Struts, FX or alike]<br><br>
 
 
 [and more]

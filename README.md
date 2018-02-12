@@ -12,7 +12,7 @@ bp05WidowSwing<br><br>
 bp06WindowWithElements1FX<br>
 bp07WindowWithPanesFX<br>
 bp08WindowWithGridsFX<br>
-bp09WindowWithElements2FX
+bp09WindowWithElements2FX<br>
 bp10WindowWithElementsFXSimpelMVC<br>
 bp11WindowWithElementsSwing<br>
 bp12WindowWithElements[Web: Struts, FX or alike]<br><br>

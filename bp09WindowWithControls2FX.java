@@ -54,7 +54,7 @@ This is done by using the layout bound: "Group", together with the two propertie
 setLayoutX() and setLayoutY().
 
 
-¤  More on panes and grids in the files bp07... and bp08... .
+¤  More on panes and grids in the files: "bp07..." and "bp08..." .
 
 
 ¤  A general link on FX controls  ->  https://docs.oracle.com/javafx/2/ui_controls/overview.htm

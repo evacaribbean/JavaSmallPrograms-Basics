@@ -46,11 +46,8 @@ When running the program, you can easily check this by resize the window.
 
 
 ¤  File "bp08WindowWithGrid1FX.java" will show a more effective way on how
-to coding, giving the controls a static location. This is done by the pane:
-"Group" (or more correct the "layout bound": Group).
-
-Here you will have the oppertunity to give each and every control an exact
-position.
+to coding, giving each and every control an exact position. This is done by
+the pane: "Group" (or more correct the "layout bound": Group).
 
 
 A general link on FX controls:

@@ -11,8 +11,8 @@ bp05WidowSwing<br><br>
 
 bp06WindowWithControls1FX<br>
 bp07WindowWithPanesFX<br>
-bp08WindowWithGrids1FX<br>
-bp09WindowWithGrids2FX<br>
+bp08WindowWithGrid1FX<br>
+bp09WindowWithGrid2FX<br>
 bp10WindowWithControls2FX<br>
 bp11WindowWithControlsFXSimpelMVC<br>
 bp12WindowWithControlsSwing<br>
